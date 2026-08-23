@@ -1,0 +1,11 @@
+/** UnitFlow style: JavaScript and JSX application bootstrap. */
+import { createRoot } from "react-dom/client";
+import App from "./App.jsx";
+import "./index.css";
+
+const root = document.getElementById("root");
+
+if (root) {
+  createRoot(root).render(<App />);
+}
+
