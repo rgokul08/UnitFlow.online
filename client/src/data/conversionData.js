@@ -61,7 +61,7 @@ export const categories = [
       { id: "cm3", name: "Cubic Centimeter", symbol: "cm³", factor: 0.001 },
       { id: "in3", name: "Cubic Inch", symbol: "in³", factor: 0.016387064 },
       { id: "ft3", name: "Cubic Foot", symbol: "ft³", factor: 28.316846592 },
-      { id: "galus", name: "US Gallon", symbol: "gal", factor: 3.785411784 },
+      { id: "gal", name: "US Gallon", symbol: "gal", factor: 3.785411784 },
       { id: "qtus", name: "US Quart", symbol: "qt", factor: 0.946352946 },
       { id: "cupus", name: "US Cup", symbol: "cup", factor: 0.2365882365 },
     ],
